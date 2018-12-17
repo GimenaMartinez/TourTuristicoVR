@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppTuristica", "Assembly-CSharp.csproj", "{F508CDD1-9127-F37B-8F84-B6F5CC6EF93F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppTuristica", "Assembly-CSharp-Editor.csproj", "{B718364E-D5C4-D533-DBAD-B4CDA2A28447}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F508CDD1-9127-F37B-8F84-B6F5CC6EF93F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F508CDD1-9127-F37B-8F84-B6F5CC6EF93F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F508CDD1-9127-F37B-8F84-B6F5CC6EF93F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F508CDD1-9127-F37B-8F84-B6F5CC6EF93F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B718364E-D5C4-D533-DBAD-B4CDA2A28447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B718364E-D5C4-D533-DBAD-B4CDA2A28447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B718364E-D5C4-D533-DBAD-B4CDA2A28447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B718364E-D5C4-D533-DBAD-B4CDA2A28447}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
